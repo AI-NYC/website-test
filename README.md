@@ -10,3 +10,5 @@ Welcome to Crypto NYC! We have a variety of events. Check them out below:
 - **29 Mar 2023** » [Lorem Ipsum Event 2](lorem-ipsum-event-2.md)
 - **23 Feb 2023** » [Lorem Ipsum Event 3](lorem-ipsum-event-3.md)
 
+
+- **June 30, 2023** » [Crypto Discussion](events/wpw-2023-06-30.md)
