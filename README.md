@@ -7,7 +7,8 @@ Welcome to Crypto NYC! We have a variety of events. Check them out below:
 ### Lorem Ipsum Event
 
 * Date: April 1, 2024
+* Topic: Lorem Ipsum Decoding
 * Host: John Doe
 * Attenders: Alice, Bob, Charlie
 
-[Go to Event Page](events/wpw-2023-04-01.md)
+[Go to Event Page](lorem-ipsum-event.md)
