@@ -1,15 +1,10 @@
-# Event Name
+## Crypto Discussion
+**Date:** June 30, 2023
+**Participants:** Alice, Bob, Charlie
 
-[<< Back to Crypto NYC](index.md) > WPW
+## Meeting Transcription
+This is a test event.
 
-## Agenda
-
-Agenda goes here
-
-## Summary
-
-Summary goes here
-
-## References
-
-* [Link 1](#)
+## Links
+- [Link 1](https://example.com)
+- [Link 2](https://example.com)
