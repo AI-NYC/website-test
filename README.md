@@ -4,7 +4,7 @@ Welcome to Crypto NYC! We have a variety of events. Check them out below:
 
 ## WPW Events
 
-- **June 26, 2023** » [Tempalte](events/template.md)
+- **June 26, 2023** » [Template](events/template.md)
 - **June 30, 2023** » [Crypto Discussion](events/wpw-2023-06-30.md)
 
 ## How to update this repo
